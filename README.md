@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, thanks for stopping by!
+
+I've moved all my projects to [Codeberg, where you can check them out](https://codeberg.org/martinhofmann).
+
+This profile is kept online to keep links intact.
+
 
 <!--
 **m-hofmann/m-hofmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
